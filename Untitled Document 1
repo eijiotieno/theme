@@ -1,0 +1,65 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontWeight": "bold",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.fontWeight": "bold",
+    "dart.flutterHotReloadOnSave": "always",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "explorer.confirmDragAndDrop": false,
+    "dart.flutterCreateOffline": true,
+    "editor.fontSize": 15,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.tokenColorCustomizations": {
+        "strings": "#ffff00",
+        "keywords": "#909090",
+        "functions": "#00ffbf",
+        "types": "#ff0040",
+        "numbers": "#ff8000",
+        "variables": "#80ff00",
+        
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#00080b",
+        "editor.background": "#00080b",
+        "tab.border": "#151515",
+        "tab.activeBackground": "#202020",
+        "tab.inactiveBackground": "#00080b",
+        "sideBar.border": "#151515",
+        "sideBar.background": "#00080b",
+        "activityBar.border": "#151515",
+       "terminal.background": "#00080b",
+        "dropdown.background": "#00080b",
+        
+        
+    },
+    "indentRainbow.errorColor": "",
+    "editor.semanticTokenColorCustomizations": null,
+    "workbench.colorTheme": "Midnight Pastel",
+    "explorer.confirmDelete": false,
+    "python.pythonPath": "/usr/bin/python3",
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorWidth": 5,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.lineHeight": 1.1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "consolas, 'monospace', 'Droid Sans Mono', 'Droid Sans Fallback', monospace",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "redhat.telemetry.enabled": true,
+    "[xml]": {
+        "editor.defaultFormatter": "fabianlauer.vs-code-xml-format"
+    },
+    "window.zoomLevel": -1,
+}
